@@ -7,9 +7,6 @@
 
 The Umbrella Customizer is a web application designed to help umbrella sellers and their corporate customers customize umbrellas with logos and color options. With this tool, customers can upload their logos and instantly preview how they will look on different colored umbrellas. The customizer provides an intuitive interface for selecting umbrella colors and uploading logos, resulting in a seamless customization experience.
 
-### Demo
-
-[Insert demo photos and/or video here]
 
 ### Features
 
@@ -29,8 +26,8 @@ The Umbrella Customizer is a web application designed to help umbrella sellers a
 
 To run the Umbrella Customizer locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd umbrella-customizer`
+1. Clone the repository: `git clone https://github.com/Avinash-1-10/star-apps-assesment`
+2. Navigate to the project directory: `cd star-apps-assesment`
 3. Open `index.html` in your web browser.
 
 ### Technologies Used
@@ -38,10 +35,9 @@ To run the Umbrella Customizer locally, follow these steps:
 - HTML
 - CSS
 - JavaScript
-
-<br>
-<br>
 <hr>
+<br>
+<br>
 <br>
 <br>
 
